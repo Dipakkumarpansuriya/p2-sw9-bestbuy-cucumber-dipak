@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test","This will create new product","SUCCESS","2023-01-10T22:04:50.350Z[Europe/London]","0.0","0.78"
+"Product CURD test","Verify if the product was added to application","SUCCESS","2023-01-10T22:04:51.134Z[Europe/London]","0.0","0.11"
+"Product CURD test","This will update product","SUCCESS","2023-01-10T22:04:51.243Z[Europe/London]","0.0","0.09"
+"Product CURD test","This will delete product","SUCCESS","2023-01-10T22:04:51.338Z[Europe/London]","0.0","0.11"

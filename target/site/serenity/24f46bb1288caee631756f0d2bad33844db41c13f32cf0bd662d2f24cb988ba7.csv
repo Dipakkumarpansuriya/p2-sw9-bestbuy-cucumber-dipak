@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on store section of Bestbuy","Creating store data","SUCCESS","2023-01-10T22:04:54.440Z[Europe/London]","0.0","0.09"
+"Testing different request on store section of Bestbuy","Verify store is created by getting Store info by given Id","SUCCESS","2023-01-10T22:04:54.637Z[Europe/London]","0.0","0.07"
+"Testing different request on store section of Bestbuy","Updating newly added store detail","SUCCESS","2023-01-10T22:04:54.819Z[Europe/London]","0.0","0.05"
+"Testing different request on store section of Bestbuy","Deleting store by given Id","SUCCESS","2023-01-10T22:04:55.046Z[Europe/London]","0.0","0.08"
+"Testing different request on store section of Bestbuy","CURD TEST","SUCCESS","2023-01-10T22:04:55.273Z[Europe/London]","0.0","0.2"
